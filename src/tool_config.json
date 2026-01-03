@@ -1,0 +1,5 @@
+{
+  "description": "This tool generates a random character. Returns json.",
+  "name": "random_charactor_generator",
+  "tool_class": "random_charactor_generator.RandomCharatorGeneratorTool"
+}
